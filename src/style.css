@@ -2,6 +2,10 @@
   --animate-duration: 1800ms;
   --animate-delay: 0.9s;
 }
+body{
+  font-family: 'Nunito', sans-serif;
+
+}
 
 header{
   background-color: #072ac8;
